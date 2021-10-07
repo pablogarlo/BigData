@@ -1,2 +1,2 @@
 # BigData
-Master Bid Data an Data Science
+Master Big Data an Data Science
